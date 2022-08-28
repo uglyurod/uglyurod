@@ -9,6 +9,14 @@
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=uglyurod&layout=compact"/></a>
 </p>
 
+## 🛠 Technical Stack
+* Java/Python/C++ languages
+* NumPy, Pandas, Telebot, Requests, Beautiful Soup
+* MySQL
+* GitHub
+
+## 🌱 Currently learning
+* PyTest
 
 <!--
 **uglyurod/uglyurod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
