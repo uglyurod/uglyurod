@@ -1,5 +1,6 @@
-### Hi, I'm Danil 👋
-
+# Hi, I'm Danil 👋
+Хочу развиваться в роли QA-специалиста. Имею базовые знания для работы в данной сфере. На хорошем уровне владею SQL(select, join'ы, простые вложенные запросы). 
+Обладаю знанимем основных принципов ООП.
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=uglyurod&show_icons=true&count_private=true"><img
@@ -12,7 +13,8 @@
 ## 🛠 Technical Stack
 * Java/Python/C++ languages
 * NumPy, Pandas, Telebot, Requests, Beautiful Soup
-* MySQL
+* SQL
+* Jupyter Notebook
 * GitHub
 
 ## 🌱 Currently learning
