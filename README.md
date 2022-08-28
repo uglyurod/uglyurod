@@ -1,5 +1,15 @@
 ### Hi, I'm Danil 👋
 
+
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=uglyurod&show_icons=true&count_private=true"><img
+           height=150
+           src="https://github-readme-stats.vercel.app/api?username=uglyurod&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/uglyurod/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=uglyurod&layout=compact"/></a>
+</p>
+
+
 <!--
 **uglyurod/uglyurod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
